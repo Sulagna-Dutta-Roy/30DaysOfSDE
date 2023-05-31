@@ -2,6 +2,6 @@
 
 Will start practicing these solutions first:
 
-https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java 
 
-6/16 videos completed 😄😄
+7/16 videos completed 😄😄 
