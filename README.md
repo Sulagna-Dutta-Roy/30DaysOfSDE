@@ -4,4 +4,4 @@ Will start practicing these solutions first:
 
 https://github.com/kunal-kushwaha/DSA-Bootcamp-Java 
 
-7/16 videos completed 😄😄 
+8/16 videos completed 😄😄 
